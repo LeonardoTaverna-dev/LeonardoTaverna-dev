@@ -1,37 +1,51 @@
-# Olá! 👋 Eu sou Leonardo Taverna
+# 👋 Olá, eu sou Leonardo Taverna
 
 🎓 Estudante de **Engenharia de Software**
-💻 Estudando **C++ e Desenvolvimento Web**
-🚀 Em constante evolução na área de tecnologia
+💻 Interessado em **Desenvolvimento de Software, Web e Redes de Computadores**
 
-## 🧠 Atualmente estudando
-
-* C++
-* HTML
-* CSS
-* JavaScript
-* Git e GitHub
-* Lógica de programação
-* Desenvolvimento de sistemas
-
-## 🛠️ Tecnologias
-
-<div>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode" />
-</div>
-
-## 📚 Projetos
-
-🔹 **Sistema de Gestão Financeira**
-Projeto desenvolvido durante meus estudos de Engenharia de Software.
-
-🔹 **Projetos em C++**
-Exercícios e pequenos projetos para desenvolver minha lógica de programação e fundamentos da linguagem.
-
-## 🎯 Objetivos
-
-Atualmente estou construindo minha base em programação e desenvolvimento de software, buscando evoluir cada vez mais na área de tecnologia e transformar meus estudos em projetos reais.
+Atualmente estou desenvolvendo minha base em programação e tecnologia, com foco principalmente em **C++**, desenvolvimento web e fundamentos de redes.
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 🧑‍💻 Tecnologias & Estudos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode,visualstudio" />
+</p>
+
+**Programação:** C++ • Lógica de Programação
+**Web:** HTML • CSS • JavaScript
+**Redes:** Redes de Computadores
+**Ferramentas:** Git • GitHub • VS Code • Visual Studio
+
+---
+
+## 🚀 Projetos
+
+### 💰 Sistema de Gestão Financeira
+
+Projeto desenvolvido durante a graduação em Engenharia de Software.
+
+### 💻 Projetos em C++
+
+Exercícios e projetos desenvolvidos para praticar lógica de programação e fundamentos da linguagem.
+
+### 🌐 Desenvolvimento Web
+
+Projetos e estudos utilizando HTML, CSS e JavaScript.
+
+---
+
+## 📚 Atualmente
+
+**C++** • **Desenvolvimento Web** • **Redes de Computadores** • **Git & GitHub**
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoTaverna-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTaverna-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
